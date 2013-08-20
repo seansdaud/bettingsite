@@ -1,0 +1,4 @@
+create a betting site
+have login 
+credits
+allow to select game
